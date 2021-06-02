@@ -18,10 +18,11 @@ How to run
 
 5) To execute you can use below command on cron jobs at Cpanel
   
-  //Without email
-  wget -q -O - https://[yourprojectname].glitch.me/ethgasfees >/dev/null 2>&1 
-  //With email
-  wget -q -O - https://[yourprojectname].glitch.me/ethgasfees 
+//Without email
+wget -q -O - https://[yourprojectname].glitch.me/ethgasfees >/dev/null 2>&1 
+  
+//With email
+wget -q -O - https://[yourprojectname].glitch.me/ethgasfees 
   
   ![](cronjobs/Eth.jpg)
 
