@@ -24,7 +24,7 @@ wget -q -O - https://[yourprojectname].glitch.me/ethgasfees >/dev/null 2>&1
 //With email
 wget -q -O - https://[yourprojectname].glitch.me/ethgasfees 
   
-  ![](cronjobs/Eth.jpg)
+![](cronjobs/cronjobs.jpg)
 
 6) Remove the brackets [] and insert your project name there
 7) Stan B.I Illa Illa
