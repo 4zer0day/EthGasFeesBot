@@ -1,8 +1,6 @@
 # EthGasFeesBot
 [EthGasFeesBot] is a telegram cryptocurrency Bot created by @icyurei or @ikmxleo. You can check the current gas price of Ethereum in Gigawei (Gwei) every 3 hours or any time that you want. Can only be run with Cron Jobs and using Glitch.me. A little bit different with previous Bot.
 
-created by @icyurei or @ikxmleo [LuneChain]
-
 donate me some ETH
 
 0xa01A95878447dfbCdb47d85ed6898C1d241Af5d6⠀
